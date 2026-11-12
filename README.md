@@ -1,14 +1,18 @@
-<a href="https://raphaelflipo.github.io"><img src="https://raphaelflipo.github.io/img/og.jpg" alt="Raphaël Flipo — portfolio" width="100%"></a>
+<a href="https://raphaelflipo.github.io/"><img src="https://raphaelflipo.github.io/img/og.jpg" alt="Raphaël Flipo — portfolio" width="100%"></a>
 
-### Bonjour, je suis Raphaël 👋
+# Raphaël Flipo
 
-Commercial et marketeur dans la métropole lilloise, **je construis aussi les produits que je vends.**
+Commercial et développeur dans la métropole lilloise, en alternance chez **Florimond Desprez** et en deuxième année de **BUT Techniques de commercialisation à l’IUT de Roubaix**. Je travaille sur le suivi commercial, la communication et les projets marketing, et je développe mes propres applications en parallèle.
 
-🌐 **Mon portfolio : [raphaelflipo.github.io](https://raphaelflipo.github.io)**
+**[Portfolio et CV](https://raphaelflipo.github.io/)** · **[LinkedIn](https://www.linkedin.com/in/raphaelflipo/)**
 
-| Projet | En bref |
-|---|---|
-| 🧭 **[La Boussole](https://raphaelflipo.github.io/#la-boussole)** | L'appli qui organise les déplacements des associations : événements, covoiturage, réservation de places. C++17 · Qt 6 / QML · Firebase — *démonstration privée RC4, validation partielle* |
-| 🟢 **[Jarvis](https://github.com/raphaelflipo/jarvis)** | Un agent IA autonome qui tourne en local sur Mac : il planifie, utilise de vrais outils et vérifie son travail. Python · Swift · MLX — *open source* |
+## Projets personnels
 
-📫 r.flipob@gmail.com · [LinkedIn](https://www.linkedin.com/in/raphaelflipo) · [Instagram](https://www.instagram.com/r.flipo/)
+| Projet | Objectif et état actuel | Technologies |
+|---|---|---|
+| **[La Boussole](https://raphaelflipo.github.io/la-boussole/)** | Organisation des événements et du covoiturage associatif. En développement ; démonstration fictive accessible, sans téléchargement public de l’application. | C++ · Qt / QML · Firebase |
+| **[Jarvis](https://github.com/raphaelflipo/jarvis)** | Assistant personnel local en bêta. Une application web conversationnelle installable et une édition Mac avec des outils distincts. | JavaScript · Python · Swift |
+
+Les pages de présentation et les dépôts précisent les prérequis, les fonctions disponibles et les limites de chaque projet.
+
+Contact : [r.flipob@gmail.com](mailto:r.flipob@gmail.com)
